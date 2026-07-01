@@ -3,6 +3,18 @@
     <channel>
         <title>JowtShot</title>
         <item>
+            <title>0.9.1</title>
+            <pubDate>Wed, 01 Jul 2026 18:24:54 -0300</pubDate>
+            <sparkle:version>0.9.1</sparkle:version>
+            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/jfilipefe/jowtshot-releases/releases/download/v0.9.1/JowtShot-0.9.1.zip" length="1414045" type="application/octet-stream" sparkle:edSignature="YtEVn70w13YWqaig+9J0/wabeuSHfbb9u44jIriO4+kUtInZyS8svI0ocSG1XGkJOLMzWMH9kaw4TZtsl2pzCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jfilipefe/jowtshot-releases/releases/download/v0.9.1/JowtShot0.9.1-0.9.0.delta" sparkle:deltaFrom="0.9.0" length="4662" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977696" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="n9v6DZVo5apovUVBnR2U2wCmqfr0c+wdtfMHv9Yp25KyA5WKXNoF7LVhq10NPhFgH9LNk3ksc4jFIUIB18hWCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.9.0</title>
             <pubDate>Wed, 01 Jul 2026 18:19:26 -0300</pubDate>
             <sparkle:version>0.9.0</sparkle:version>
