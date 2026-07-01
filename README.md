@@ -23,4 +23,4 @@ Cada release inclui o `SHA256` do arquivo. O feed de atualização é assinado
 com EdDSA (a chave pública está embutida no app).
 
 ---
-© 2026 Jordy Filipe · Licença MIT
+© 2026 Jowtas · Licença MIT
